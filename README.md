@@ -144,6 +144,3 @@ Send some to your neighbours:
   
   -	Your friend can then enter your contract info and code to view your tokens in their wallet!
 
-
-
-Note: Used the basis of this article for the tutorial: https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793
