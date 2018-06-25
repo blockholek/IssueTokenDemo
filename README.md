@@ -117,28 +117,22 @@ To confirm that it works, go to https://ropsten.etherscan.io/ and look up your P
 ## Optional - Sending Tokens
 
 Send some to your neighbours:
-
-  -	Export your private key
   
   - Use [MyEtherWallet](https://www.myetherwallet.com/) to get tokens out of your MetaMask account.
   
-  - Hit *View Wallet Info*
+  - Hit *Send Ether & Tokens*
   
-  - Select *Using Private Key* from the dropdown
-  
-  - Paste your private key
+  - Select *MetaMask Access* from the dropdown
   
   - Confirm
   
   - Add your Contract Address to the Token Balances area to confirm you have the tokens.
   
-  - Hit Send ether & tokens at the top
-  
   -	Change to your created token
   
   -	Enter your friend’s public address
   
-  -	Change gas limit to 150,000
+  -	Change gas limit to 150,000 for faster transfer
   
   -	Send! Check etherscan for progress
   
